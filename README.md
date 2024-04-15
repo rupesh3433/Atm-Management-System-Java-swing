@@ -1,6 +1,6 @@
 # ATM Management System - Java Swing Application
 
-This desktop application was created by a team of developers during the second-year project at Pimpri Chinchwad College of Engineering. The project team included Sameer Khatiwada and Ghanashyam Puri.
+This desktop application was created by a team of developers during the second-year project at Pimpri Chinchwad College of Engineering. The project team included Rupesh Poudel, Sameer Khatiwada and Ghanashyam Puri.
 
 ## Project Overview
 
