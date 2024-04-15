@@ -38,7 +38,7 @@ Contributions to this project are welcome! Feel free to fork this repository, ma
 
 - Sameer Khatiwada
 - Ghanashyam Puri
-- [Your Name]
+- Rupesh Poudel
 
 ## Acknowledgments
 
